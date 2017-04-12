@@ -61,7 +61,7 @@ footer {
 	margin-bottom: 30px;
 	border-bottom: 1px solid #222;
 
-	color: white;
+	color: yellow;
 	background: #39536B;
 }
 
@@ -79,7 +79,7 @@ footer {
 		position: absolute;
 		top: 0;
 		left: 0;
-		border: 5px solid white;
+		border: 5px solid blue;
 		outline: 1px solid #999;
 		background: #fff;
 	}
